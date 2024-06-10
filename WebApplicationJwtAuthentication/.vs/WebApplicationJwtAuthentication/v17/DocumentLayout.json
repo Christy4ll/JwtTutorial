@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\JWT\\WebApplicationJwtAuthentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFA3C81-AB46-4051-875A-20116828BD29}|WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj|c:\\users\\hp\\desktop\\jwt\\webapplicationjwtauthentication\\webapplicationjwtauthentication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFA3C81-AB46-4051-875A-20116828BD29}|WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj|solutionrelative:webapplicationjwtauthentication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFA3C81-AB46-4051-875A-20116828BD29}|WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj|c:\\users\\hp\\desktop\\jwt\\webapplicationjwtauthentication\\webapplicationjwtauthentication\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFA3C81-AB46-4051-875A-20116828BD29}|WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj|solutionrelative:webapplicationjwtauthentication\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFA3C81-AB46-4051-875A-20116828BD29}|WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj|c:\\users\\hp\\desktop\\jwt\\webapplicationjwtauthentication\\webapplicationjwtauthentication\\model\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFA3C81-AB46-4051-875A-20116828BD29}|WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj|solutionrelative:webapplicationjwtauthentication\\model\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFA3C81-AB46-4051-875A-20116828BD29}|WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj|c:\\users\\hp\\desktop\\jwt\\webapplicationjwtauthentication\\webapplicationjwtauthentication\\dtos\\userrequestlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFA3C81-AB46-4051-875A-20116828BD29}|WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj|solutionrelative:webapplicationjwtauthentication\\dtos\\userrequestlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFA3C81-AB46-4051-875A-20116828BD29}|WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj|c:\\users\\hp\\desktop\\jwt\\webapplicationjwtauthentication\\webapplicationjwtauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFA3C81-AB46-4051-875A-20116828BD29}|WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj|solutionrelative:webapplicationjwtauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFA3C81-AB46-4051-875A-20116828BD29}|WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj|c:\\users\\hp\\desktop\\jwt\\webapplicationjwtauthentication\\webapplicationjwtauthentication\\dtos\\userregistrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFA3C81-AB46-4051-875A-20116828BD29}|WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj|solutionrelative:webapplicationjwtauthentication\\dtos\\userregistrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFA3C81-AB46-4051-875A-20116828BD29}|WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj|c:\\users\\hp\\desktop\\jwt\\webapplicationjwtauthentication\\webapplicationjwtauthentication\\webapplicationjwtauthentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2AFA3C81-AB46-4051-875A-20116828BD29}|WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj|solutionrelative:webapplicationjwtauthentication\\webapplicationjwtauthentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFA3C81-AB46-4051-875A-20116828BD29}|WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj|c:\\users\\hp\\desktop\\jwt\\webapplicationjwtauthentication\\webapplicationjwtauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AFA3C81-AB46-4051-875A-20116828BD29}|WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj|solutionrelative:webapplicationjwtauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFA3C81-AB46-4051-875A-20116828BD29}|WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj|c:\\users\\hp\\desktop\\jwt\\webapplicationjwtauthentication\\webapplicationjwtauthentication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AFA3C81-AB46-4051-875A-20116828BD29}|WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj|solutionrelative:webapplicationjwtauthentication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFA3C81-AB46-4051-875A-20116828BD29}|WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj|c:\\users\\hp\\desktop\\jwt\\webapplicationjwtauthentication\\webapplicationjwtauthentication\\newfolder\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFA3C81-AB46-4051-875A-20116828BD29}|WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj|solutionrelative:webapplicationjwtauthentication\\newfolder\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFA3C81-AB46-4051-875A-20116828BD29}|WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj|c:\\users\\hp\\desktop\\jwt\\webapplicationjwtauthentication\\webapplicationjwtauthentication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFA3C81-AB46-4051-875A-20116828BD29}|WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj|solutionrelative:webapplicationjwtauthentication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFA3C81-AB46-4051-875A-20116828BD29}|WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj|c:\\users\\hp\\desktop\\jwt\\webapplicationjwtauthentication\\webapplicationjwtauthentication\\webapplicationjwtauthentication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2AFA3C81-AB46-4051-875A-20116828BD29}|WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj|solutionrelative:webapplicationjwtauthentication\\webapplicationjwtauthentication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\JWT\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplicationJwtAuthentication\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\JWT\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplicationJwtAuthentication\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABMAAADQzMzMzMw3wAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:56:47.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebApplicationJwtAuthentication.http",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\JWT\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.http",
+              "RelativeDocumentMoniker": "WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.http",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\JWT\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.http",
+              "RelativeToolTip": "WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-03T14:54:13.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\JWT\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationJwtAuthentication\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\JWT\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication\\Program.cs",
+              "RelativeToolTip": "WebApplicationJwtAuthentication\\Program.cs",
+              "ViewState": "AQIAABsAAABgZWZmZmYowBYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:55:24.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthResult.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\JWT\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication\\Model\\AuthResult.cs",
+              "RelativeDocumentMoniker": "WebApplicationJwtAuthentication\\Model\\AuthResult.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\JWT\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication\\Model\\AuthResult.cs",
+              "RelativeToolTip": "WebApplicationJwtAuthentication\\Model\\AuthResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T21:49:32.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRequestLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\JWT\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication\\Dtos\\UserRequestLoginDto.cs",
+              "RelativeDocumentMoniker": "WebApplicationJwtAuthentication\\Dtos\\UserRequestLoginDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\JWT\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication\\Dtos\\UserRequestLoginDto.cs",
+              "RelativeToolTip": "WebApplicationJwtAuthentication\\Dtos\\UserRequestLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:53:13.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\JWT\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "WebApplicationJwtAuthentication\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\JWT\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "WebApplicationJwtAuthentication\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAA8AAAAAmZmZmZkzwIYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:05:29.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRegistrationRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\JWT\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication\\Dtos\\UserRegistrationRequestDto.cs",
+              "RelativeDocumentMoniker": "WebApplicationJwtAuthentication\\Dtos\\UserRegistrationRequestDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\JWT\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication\\Dtos\\UserRegistrationRequestDto.cs",
+              "RelativeToolTip": "WebApplicationJwtAuthentication\\Dtos\\UserRegistrationRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T21:56:26.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApplicationJwtAuthentication.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\JWT\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj",
+              "RelativeDocumentMoniker": "WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\JWT\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj",
+              "RelativeToolTip": "WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-02T13:52:37.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\JWT\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApplicationJwtAuthentication\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\JWT\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication\\appsettings.Development.json",
+              "RelativeToolTip": "WebApplicationJwtAuthentication\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T16:26:01.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\JWT\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplicationJwtAuthentication\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\JWT\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplicationJwtAuthentication\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:50:02.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\JWT\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplicationJwtAuthentication\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\JWT\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication\\appsettings.json",
+              "RelativeToolTip": "WebApplicationJwtAuthentication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T12:54:21.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\JWT\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication\\NewFolder\\JwtConfig.cs",
+              "RelativeDocumentMoniker": "WebApplicationJwtAuthentication\\NewFolder\\JwtConfig.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\JWT\\WebApplicationJwtAuthentication\\WebApplicationJwtAuthentication\\NewFolder\\JwtConfig.cs",
+              "RelativeToolTip": "WebApplicationJwtAuthentication\\NewFolder\\JwtConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:53:41.76Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YgUFLH0JhiB2GmN3QwgnSQ+xPnK3AKHAIBQgDkKKwgo=",
+  "Source": "WebApplicationJwtAuthentication",
+  "BasePath": "_content/WebApplicationJwtAuthentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
